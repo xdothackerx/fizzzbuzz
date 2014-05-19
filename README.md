@@ -1,6 +1,5 @@
-<h4>Author: Sam Camus (xdothackerx) </h4>
-
 <h4>Project Title: Fizzbuzz Advanced</h4>
+<h3>Author: Sam Camus (xdothackerx) </h3>
 
 Approach: Wrote down what inputs the client wanted, planned out what was needed to make a user-friendly feature as described.
 Researched meta programming in Ruby with the keywords "methods that create methods" and similar. Attempted to make similarly structured method, tried a few different things, and it eventually worked.
